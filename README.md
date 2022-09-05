@@ -2,10 +2,10 @@
 
 <br>
 <a href="https://www.instagram.com/arjund_06/">
-  <img src="https://image.flaticon.com/icons/png/512/174/174855.png" height="35" alt="arjund_06" hspace="10">
+  <img src="https://icons8.com/icon/59813/instagram-new" height="35" alt="arjund_06" hspace="10">
 </a>
 <a href="https://www.linkedin.com/in/arjundave25/">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="35" alt="Arjun Dave LinkedIn" hspace="10">
+  <img src="https://icons8.com/icon/98960/linkedin" height="35" alt="Arjun Dave LinkedIn" hspace="10">
 </a>
 
 ### I am a third year student doing B.E CSE at Sathyabama Institute of Science and Technology, Chennai. <br>
